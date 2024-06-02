@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prime-headline/static/css/main.f855e6bc.css",
+    "main.js": "/prime-headline/static/js/main.af5b50ce.js",
+    "static/js/787.3613b5b8.chunk.js": "/prime-headline/static/js/787.3613b5b8.chunk.js",
+    "index.html": "/prime-headline/index.html",
+    "main.f855e6bc.css.map": "/prime-headline/static/css/main.f855e6bc.css.map",
+    "main.af5b50ce.js.map": "/prime-headline/static/js/main.af5b50ce.js.map",
+    "787.3613b5b8.chunk.js.map": "/prime-headline/static/js/787.3613b5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.af5b50ce.js"
+  ]
+}
